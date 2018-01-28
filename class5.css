@@ -57,6 +57,8 @@ body {
 .logoContainer1 {
     color: #343a40;
     display: inline;
+    letter-spacing: -3px;
+    font-weight: 800;
 }
 .logoContainer2 {
     color: #bd5d32;
@@ -80,14 +82,18 @@ body {
     font-family: 'Open Sans',serif;
 }
 .thirdlogoContainer {
-    font-size: 50px;
+    font-size: 45px;
     color: #343a40;
     padding: 5px 50px;
+    font-weight: 600;
+    letter-spacing: -3px;
 }
 .thirdContainer1 {
-    font-size: 35px;
+    font-size: 30px;
     padding: 6px 50px;
     color: #343a40;
+    letter-spacing: -3px;
+    font-weight: 600;
 }
 .iconsContent i {
     height: 20px;
@@ -114,7 +120,9 @@ body {
 .fourthContainer1 {
     color: #343a40;
     margin: 5px 50px;
-    font-size: 35px;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -3px;
 }
 .fourthContainer2 {
     color: #868e96;
@@ -127,7 +135,9 @@ body {
 .fifthContainer1 {
     color: #343a40;
     margin: 5px 50px;
-    font-size: 35px;
+    font-size: 30px;
+    letter-spacing: -3px;
+    font-weight: 600;
 }
 .fifthContainer2 {
     color: #868e96;
@@ -140,7 +150,10 @@ body {
 .sixthContainer1 {
     color: #343a40;
     margin: 5px 50px;
-    font-size: 35px;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -3px;
+
 }
 .sixthContainer2 {
     color: #868e96;
@@ -151,14 +164,18 @@ body {
     margin: 5px 50px;
 }
 .fourthlogoCotainer {
-    font-size: 50px;
+    font-size: 45px;
     color: #343a40;
     padding: 5px 50px;
+    letter-spacing: -3px;
+    font-weight: 600;
 }
 .seventhContainer1 {
     color: #343a40;
     margin: 5px 50px;
-    font-size: 35px;
+    font-size: 30px;
+    letter-spacing: -3px;
+    font-weight: 600;
 }
 .seventhContainer2 {
     color: #868e96;
@@ -171,7 +188,9 @@ body {
 .eigthContainer1 {
     color: #343a40;
     margin: 5px 50px;
-    font-size: 35px;
+    font-size: 30px;
+    letter-spacing: -3px;
+    font-weight: 600;
 }
 .eigthContainer2 {
     color: #868e96;
@@ -184,7 +203,9 @@ body {
 .fifthlogoContainer {
     color: #343a40;
     margin: 5px 50px;
-    font-size: 50px;
+    font-size: 45px;
+    letter-spacing: -3px;
+    font-weight: 600;
 }
 .ninthContainer1 {
     color: #868e96;
@@ -209,7 +230,9 @@ body {
 .sixthlogoContainer {
     color: #343a40;
     margin: 5px 50px;
-    font-size: 50px;
+    font-size: 45px;
+    letter-spacing: -3px;
+    font-weight: 600;
 }
 .tenthContainer1 {
     color: #868e96;
@@ -218,7 +241,9 @@ body {
 .seventhlogoContainer {
     color: #343a40;
     margin: 5px 50px;
-    font-size: 50px;
+    font-size: 45px;
+    letter-spacing: -3px;
+    font-weight: 600;
 }
 .eleventhContainer {
     color: #868e96;
